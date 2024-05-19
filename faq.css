@@ -29,7 +29,7 @@ body
    --border-width: 1px;
    --color: #FFFFFF;
    --icon-color: #E83283;
-   --colorize: invert(34%) sepia(92%) saturate(3866%) hue-rotate(315deg) brightness(95%) contrast(92%);
+   --colorize: invert(22%) sepia(59%) saturate(3561%) hue-rotate(316deg) brightness(110%) contrast(83%);
 }
 .wb-theme-button, .wb-theme-static
 {
